@@ -1,0 +1,7 @@
+digraph {
+    Start
+    Stopping
+    Blocked
+    Free
+    Stopped
+}
